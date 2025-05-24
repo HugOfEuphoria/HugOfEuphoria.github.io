@@ -1,5 +1,7 @@
 THIS IS JUST A PERSONAL EDIT OF THIS ORIGINAL: https://github.com/PimPee/GradientDescentTerminal/tree/main
 
+https://hugofeuphoria.github.io/
+
 The Gradient Descent Terminal was created for the Mothership campaign Gradient Descent
 https://www.tuesdayknightgames.com/products/gradient-descent
 
